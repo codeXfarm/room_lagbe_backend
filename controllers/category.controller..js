@@ -10,7 +10,7 @@ export const createCategory = async (req, res) => {
       success: true,
       message: "Category Added successfully",
       category: {
-        ...blog._doc,
+        ...category._doc,
       },
     });
   } catch (error) {
@@ -20,7 +20,7 @@ export const createCategory = async (req, res) => {
 
 export const getAllCategory = async (req, res)=>{
   try {
-    const categories = await Category.find();
+    const categories = await Category.find({ available: true });
     res.json({ success: true, categories });
   } catch (error) {
     return res.status(500).json({ success: false, message: error.message });

@@ -8,3 +8,5 @@ router.get("/all-category", getAllCategory);
 router.get("/category/:id", getCategoryById);
 router.post("/update/:id", updateCategory);
 router.use("/delete/:id", deleteCategory);
+
+export default router;
