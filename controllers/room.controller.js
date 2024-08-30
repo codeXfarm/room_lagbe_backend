@@ -2,38 +2,47 @@ import { Room } from "../models/room.model.js";
 
 export const addRoom = async (req, res) => {
   const {
+    id,
     title,
     description,
+    propertyType,
+    proertyFor,
+    status,
+    availableFrom,
     price,
+    advaneFee,
+    currency,
+    location,
+    features,
+    security,
     image,
-    bedRoom,
-    bathRoom,
-    kitchen,
-    livingRoom,
-    attachedBathRoom,
-    forRent,
-    forSale,
+    amenities,
   } = req.body;
 
   try {
     const room = new Room({
+      id,
       title,
       description,
+      propertyType,
+      proertyFor,
+      status,
+      availableFrom,
       price,
+      advaneFee,
+      currency,
+      location,
+      features,
+      security,
       image,
-      bedRoom,
-      bathRoom,
-      kitchen,
-      livingRoom,
-      attachedBathRoom,
-      forRent,
-      forSale,
+      amenities,
     });
 
     await room.save();
+
     res.status(201).json({
       success: true,
-      message: "Room Added successfully",
+      message: "Room added successfully",
       room: {
         ...room._doc,
       },
@@ -45,7 +54,7 @@ export const addRoom = async (req, res) => {
 
 export const getAllRooms = async (req, res) => {
   try {
-    const rooms = await Room.find({ available: true });
+    const rooms = await Room.find({});
     res.json({ success: true, rooms });
   } catch (error) {
     return res.status(500).json({ success: false, message: error.message });
@@ -100,5 +109,51 @@ export const deleteRoom = async (req, res) => {
     res.json({ success: true, message: "Room deleted successfully" });
   } catch (error) {
     return res.status(500).json({ success: false, message: error.message });
+  }
+};
+
+export const getFilteredRooms = async (req, res) => {
+  const query = req.query;
+
+  console.log(query);
+
+  try {
+    const filter = {};
+
+    if (query.price) {
+      filter.price = price;
+    }
+    if (propertyType) {
+      filter.propertyType = propertyType;
+    }
+
+    if (query.propertyFor) {
+      filter.proertyFor = propertyFor;
+    }
+
+    if (query.city) {
+      filter["location.city"] = query.city;
+    }
+
+    if (query.area) {
+      filter["location.area"] = query.area;
+    }
+
+    if (query.district) {
+      filter["location.district"] = query.district;
+    }
+
+    if (query.division) {
+      filter["location.division"] = query.division;
+    }
+
+    const rooms = await Room.find(filter);
+
+    console.log("Rooms from backend", rooms);
+
+    res.status(200).json(rooms);
+  } catch (error) {
+    res.status(500).json({ message: "Server error", error });
+    console.log(error);
   }
 };
