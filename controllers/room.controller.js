@@ -121,14 +121,13 @@ export const getFilteredRooms = async (req, res) => {
     const filter = {};
 
     if (query.price) {
-      filter.price = price;
+      filter.price = query.price;
     }
-    if (propertyType) {
-      filter.propertyType = propertyType;
+    if (query.propertyType) {
+      filter.propertyType = query.propertyType;
     }
-
     if (query.propertyFor) {
-      filter.proertyFor = propertyFor;
+      filter.proertyFor = query.propertyFor;
     }
 
     if (query.city) {
