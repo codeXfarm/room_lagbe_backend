@@ -115,28 +115,28 @@ export const deleteRoom = async (req, res) => {
 export const getFilteredRooms = async (req, res) => {
   const query = req.query;
 
-  console.log(query);
-
   try {
     const filter = {};
 
-    if (query.price) {
-      filter.price = price;
-    }
-    if (propertyType) {
-      filter.propertyType = propertyType;
+    // Add filters dynamically based on query parameters
+    if (query.propertyType) {
+      filter.propertyType = query.propertyType;
     }
 
     if (query.propertyFor) {
-      filter.proertyFor = propertyFor;
+      filter.propertyFor = query.propertyFor;
     }
 
-    if (query.city) {
-      filter["location.city"] = query.city;
+    if (query.minPrice && query.maxPrice) {
+      filter.price = { $gte: query.minPrice, $lte: query.maxPrice };
+    } else if (query.minPrice) {
+      filter.price = { $gte: query.minPrice };
+    } else if (query.maxPrice) {
+      filter.price = { $lte: query.maxPrice };
     }
 
-    if (query.area) {
-      filter["location.area"] = query.area;
+    if (query.location) {
+      filter["location.area"] = query.location;
     }
 
     if (query.district) {
@@ -147,6 +147,29 @@ export const getFilteredRooms = async (req, res) => {
       filter["location.division"] = query.division;
     }
 
+    // Example for filtering based on features
+    if (query.hasBalcony) {
+      filter["features.hasBalcony"] = query.hasBalcony === "true";
+    }
+
+    if (query.hasAirConditioning) {
+      filter["features.hasAirConditioning"] =
+        query.hasAirConditioning === "true";
+    }
+
+    // Search functionality: text search in title, description, and location fields
+    if (query.search) {
+      const searchRegex = new RegExp(query.search, "i"); // 'i' for case-insensitive
+      filter.$or = [
+        { title: searchRegex },
+        { description: searchRegex },
+        { "location.area": searchRegex },
+        { "location.district": searchRegex },
+        { "location.division": searchRegex },
+      ];
+    }
+
+    // Query database with filters
     const rooms = await Room.find(filter);
 
     console.log("Rooms from backend", rooms);
