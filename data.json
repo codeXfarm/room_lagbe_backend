@@ -1,0 +1,2714 @@
+{
+    "location": {
+        "block": "A",
+        "road": "10th Street",
+        "area": "Dhanmondi",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1209,
+        "lat": 23.746466,
+        "long": 90.376015,
+        "number": "01712345678"
+    },
+    "features": {
+        "bedRoom": 3,
+        "bathRoom": 2,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 2,
+        "squareFeet": 1800,
+        "parking": "Ground",
+        "furnished": false,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": true,
+        "hasElevator": true,
+        "hasAirConditioning": false,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": false,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": true
+    },
+    
+    "id": "R12346",
+    "title": "Spacious 3 Bedroom Apartment in Dhanmondi",
+    "description": "A spacious and comfortable 3 bedroom apartment with modern amenities located in Dhanmondi. Ideal for families.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-10-01",
+    "price": 50000,
+    "advanceFee": 25000,
+    "currency": "BDT",
+    "image": [
+        "https://i.ibb.co/DQtw2ww/pexels-heyho-6283960.jpg",
+        "https://i.ibb.co/qk35cgN/pexels-mogilat-4241161.jpg"
+    ],
+    "amenities": [
+        "Gym",
+        "24/7 Security",
+        "CCTV",
+        "Community Hall"
+    ],
+   
+    
+   
+}
+{
+    "location": {
+        "block": "B",
+        "road": "15th Avenue",
+        "area": "Gulshan",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1212,
+        "lat": 23.7925,
+        "long": 90.4078,
+        "number": "01712345679"
+    },
+    "features": {
+        "bedRoom": 4,
+        "bathRoom": 3,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 2,
+        "squareFeet": 2200,
+        "parking": "Basement",
+        "furnished": true,
+        "hasBalcony": true,
+        "hasPool": true,
+        "hasGarden": false,
+        "hasElevator": true,
+        "hasAirConditioning": true,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": true,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": true
+    },
+    
+    "id": "R12347",
+    "title": "Luxury 4 Bedroom Apartment in Gulshan",
+    "description": "A luxurious and spacious 4 bedroom apartment with top-class amenities located in the heart of Gulshan. Perfect for executives.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-09-15",
+    "price": 120000,
+    "advanceFee": 60000,
+    "currency": "BDT",
+    "image": [
+        "https://i.ibb.co/NmrKTP2/pexels-marta-dzedyshko-1042863-2067570.jpg",
+        "https://i.ibb.co/z7RQxqp/pexels-hoangchuong-2466492.jpg"
+    ],
+    "amenities": [
+        "Gym",
+        "24/7 Security",
+        "CCTV",
+        "Swimming Pool"
+    ],
+   
+    
+   
+}
+{
+    "location": {
+        "block": "C",
+        "road": "7th Lane",
+        "area": "Bashundhara",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1229,
+        "lat": 23.8151,
+        "long": 90.4286,
+        "number": "01876543210"
+    },
+    "features": {
+        "bedRoom": 3,
+        "bathRoom": 2,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 1,
+        "squareFeet": 1800,
+        "parking": "Ground",
+        "furnished": false,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": true,
+        "hasElevator": true,
+        "hasAirConditioning": false,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": false,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": true
+    },
+    
+    "id": "R12348",
+    "title": "Cozy 3 Bedroom Apartment in Bashundhara",
+    "description": "A cozy 3 bedroom apartment with modern amenities, ideal for families, located in Bashundhara.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-09-25",
+    "price": 55000,
+    "advanceFee": 30000,
+    "currency": "BDT",
+    "image": [
+        "https://i.ibb.co/gzgdCm4/pexels-eky-rima-nurya-ganda-174710171-15267020.jpg",
+        "https://i.ibb.co/gzgdCm4/pexels-eky-rima-nurya-ganda-174710171-15267020.jpg"
+    ],
+    "amenities": [
+        "24/7 Security",
+        "CCTV",
+        "Community Hall"
+    ],
+   
+    
+   
+},
+{
+    "location": {
+        "block": "D",
+        "road": "30th Road",
+        "area": "Banani",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1213,
+        "lat": 23.7802,
+        "long": 90.4000,
+        "number": "01654321098"
+    },
+    "features": {
+        "bedRoom": 2,
+        "bathRoom": 2,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 2,
+        "squareFeet": 1600,
+        "parking": "Ground",
+        "furnished": true,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": false,
+        "hasElevator": true,
+        "hasAirConditioning": true,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": false,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": true
+    },
+    
+    "id": "R12349",
+    "title": "Modern 2 Bedroom Apartment in Banani",
+    "description": "A modern and well-furnished 2 bedroom apartment in Banani, perfect for small families or professionals.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-10-01",
+    "price": 75000,
+    "advanceFee": 40000,
+    "currency": "BDT",
+    "image": [
+        "https://i.ibb.co/P54cKRQ/pexels-expect-best-79873-323780.jpg",
+        "https://i.ibb.co/gzgdCm4/pexels-eky-rima-nurya-ganda-174710171-15267020.jpg"
+    ],
+    "amenities": [
+        "24/7 Security",
+        "CCTV",
+        "Gym"
+    ]
+    
+   
+},
+{
+    "location": {
+        "block": "E",
+        "road": "Main Road",
+        "area": "Mohammadpur",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1207,
+        "lat": 23.7603,
+        "long": 90.3667,
+        "number": "01543210987"
+    },
+    "features": {
+        "bedRoom": 2,
+        "bathRoom": 1,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 1,
+        "squareFeet": 1400,
+        "parking": "Basement",
+        "furnished": false,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": true,
+        "hasElevator": true,
+        "hasAirConditioning": false,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": true,
+            "smoking": true,
+            "drink": true,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": true
+    },
+    
+    "id": "R12350",
+    "title": "Affordable 2 Bedroom Apartment in Mohammadpur",
+    "description": "An affordable and comfortable 2 bedroom apartment with modern amenities, ideal for small families, located in Mohammadpur.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-09-10",
+    "price": 40000,
+    "advanceFee": 20000,
+    "currency": "BDT",
+    "image": [
+        "https://i.ibb.co/P54cKRQ/pexels-expect-best-79873-323780.jpg",
+        "https://i.ibb.co/x3BXBNk/pexels-nam-quan-nguy-n-459228913-20937742.jpg"
+    ],
+    "amenities": [
+        "24/7 Security",
+        "CCTV",
+        "Community Hall"
+    ]
+   
+    
+   
+},
+{
+    "location": {
+        "block": "F",
+        "road": "College Road",
+        "area": "Mirpur",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1216,
+        "lat": 23.8045,
+        "long": 90.3665,
+        "number": "01755443322"
+    },
+    "features": {
+        "bedRoom": 2,
+        "bathRoom": 1,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 1,
+        "squareFeet": 1100,
+        "parking": "Ground",
+        "furnished": false,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": false,
+        "hasElevator": false,
+        "hasAirConditioning": false,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": true,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": true
+    },
+    
+    "id": "R12351",
+    "title": "Comfortable 2 Bedroom Apartment in Mirpur",
+    "description": "A comfortable and well-maintained 2 bedroom apartment located in Mirpur, suitable for small families.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-09-20",
+    "price": 30000,
+    "advanceFee": 15000,
+    "currency": "BDT",
+    "image": [
+        "https://i.ibb.co/9w2m8Kq/pexels-curt-hubner-39375428-20806552.jpg",
+        "https://i.ibb.co/1brmFZQ/pexels-alexander-f-ungerer-157458816-19776306.jpg"
+    ],
+    "amenities": [
+        "24/7 Security",
+        "CCTV"
+    ]
+   
+    
+   
+},
+{
+    "location": {
+        "block": "G",
+        "road": "5th Street",
+        "area": "Uttara",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1230,
+        "lat": 23.8759,
+        "long": 90.3796,
+        "number": "01733221100"
+    },
+    "features": {
+        "bedRoom": 3,
+        "bathRoom": 2,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 2,
+        "squareFeet": 1500,
+        "parking": "Basement",
+        "furnished": true,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": true,
+        "hasElevator": true,
+        "hasAirConditioning": false,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": false,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": true
+    },
+    
+    "id": "R12352",
+    "title": "Modern 3 Bedroom Apartment in Uttara",
+    "description": "A modern 3 bedroom apartment in Uttara with excellent facilities, suitable for families or professionals.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-09-15",
+    "price": 60000,
+    "advanceFee": 30000,
+    "currency": "BDT",
+    "image": [
+        "https://i.ibb.co/sjLSs6g/pexels-salome-salazar-ravagli-1447387235-26840871.jpg",
+        "hhttps://i.ibb.co/h2TQSPq/pexels-jacoloza-17003149.jpg"
+    ],
+    "amenities": [
+        "Gym",
+        "24/7 Security",
+        "CCTV"
+    ]
+   
+    
+   
+},
+{
+    "location": {
+        "block": "H",
+        "road": "12th Lane",
+        "area": "Banasree",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1219,
+        "lat": 23.7600,
+        "long": 90.4225,
+        "number": "01789876543"
+    },
+    "features": {
+        "bedRoom": 3,
+        "bathRoom": 2,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 2,
+        "squareFeet": 1700,
+        "parking": "Basement",
+        "furnished": false,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": false,
+        "hasElevator": true,
+        "hasAirConditioning": false,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": false,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": true
+    },
+    
+    "id": "R12353",
+    "title": "Spacious 3 Bedroom Apartment in Banasree",
+    "description": "A spacious 3 bedroom apartment in Banasree with good amenities, ideal for families.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-09-25",
+    "price": 50000,
+    "advanceFee": 25000,
+    "currency": "BDT",
+    "image": [
+        "https://i.ibb.co/jZ73JjX/pexels-emre-simsek-27565013-26830095.jpg",
+        "https://i.ibb.co/98WRw0d/pexels-muhammad-tanvir-713696178-18246428.jpg"
+    ],
+    "amenities": [
+        "24/7 Security",
+        "CCTV",
+        "Community Hall"
+    ]
+    
+   
+},
+{
+    "location": {
+        "block": "I",
+        "road": "3rd Avenue",
+        "area": "Dhanmondi",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1209,
+        "lat": 23.7452,
+        "long": 90.3766,
+        "number": "01666778899"
+    },
+    "features": {
+        "bedRoom": 4,
+        "bathRoom": 3,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 3,
+        "squareFeet": 2200,
+        "parking": "Basement",
+        "furnished": true,
+        "hasBalcony": true,
+        "hasPool": true,
+        "hasGarden": true,
+        "hasElevator": true,
+        "hasAirConditioning": true,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": true,
+            "smoking": true,
+            "drink": true,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": true
+    },
+    
+    "id": "R12354",
+    "title": "Luxury 4 Bedroom Apartment in Dhanmondi",
+    "description": "A luxurious 4 bedroom apartment in Dhanmondi with high-end facilities, perfect for large families or executives.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-09-05",
+    "price": 150000,
+    "advanceFee": 75000,
+    "currency": "BDT",
+    "image": [
+        "https://i.ibb.co/rf5dnqn/pexels-rana-matloob-hussain-733235258-26886914.jpg",
+        "https://i.ibb.co/YQvhMw9/pexels-helloaesthe-16092309.jpg"
+    ],
+    "amenities": [
+        "Gym",
+        "Swimming Pool",
+        "24/7 Security",
+        "CCTV"
+    ]
+    
+   
+},
+{
+     "location": {
+                "block": "J",
+                "road": "Central Avenue",
+                "area": "Gulshan",
+                "city": "Dhaka",
+                "district": "Dhaka",
+                "division": "Dhaka",
+                "postalCode": 1212,
+                "lat": 23.7809,
+                "long": 90.4161,
+                "number": "01711223344"
+            },
+            "features": {
+                "bedRoom": 4,
+                "bathRoom": 3,
+                "kitchen": 1,
+                "livingRoom": 1,
+                "attachedBathRoom": 3,
+                "squareFeet": 2500,
+                "parking": "Underground",
+                "furnished": true,
+                "hasBalcony": true,
+                "hasPool": true,
+                "hasGarden": true,
+                "hasElevator": true,
+                "hasAirConditioning": true,
+                "hasFridge": true,
+                "hasWifi": true
+            },
+            "security": {
+                "restriction": {
+                    "pets": true,
+                    "smoking": false,
+                    "drink": true,
+                    "drugs": false,
+                    "girlsAllowed": true,
+                    "boysAllowed": true
+                },
+                "securityGarage": true
+            },
+            
+            "id": "R12355",
+            "title": "Luxurious 4 Bedroom Apartment in Gulshan",
+            "description": "A luxurious 4 bedroom apartment in the heart of Gulshan, perfect for high-profile executives and families.",
+            "propertyType": "Apartment",
+            "propertyFor": "Rent",
+            "status": "Available",
+            "availableFrom": "2024-09-12",
+            "price": 200000,
+            "advanceFee": 100000,
+            "currency": "BDT",
+            "image": [
+                "https://i.ibb.co/GxjH6YR/pexels-rana-matloob-hussain-733235258-26886912.jpg",
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725221829/pexels-albeg-27023452_fkicr7.jpg"
+            ],
+            "amenities": [
+                "Gym",
+                "Swimming Pool",
+                "24/7 Security",
+                "CCTV",
+                "Community Hall"
+            ]
+           
+            
+           
+        },
+        {
+            "location": {
+                "block": "K",
+                "road": "Lake View Road",
+                "area": "Baridhara",
+                "city": "Dhaka",
+                "district": "Dhaka",
+                "division": "Dhaka",
+                "postalCode": 1212,
+                "lat": 23.7912,
+                "long": 90.4224,
+                "number": "01755667788"
+            },
+            "features": {
+                "bedRoom": 5,
+                "bathRoom": 4,
+                "kitchen": 1,
+                "livingRoom": 2,
+                "attachedBathRoom": 4,
+                "squareFeet": 3500,
+                "parking": "Underground",
+                "furnished": true,
+                "hasBalcony": true,
+                "hasPool": true,
+                "hasGarden": true,
+                "hasElevator": true,
+                "hasAirConditioning": true,
+                "hasFridge": true,
+                "hasWifi": true
+            },
+            "security": {
+                "restriction": {
+                    "pets": true,
+                    "smoking": true,
+                    "drink": true,
+                    "drugs": false,
+                    "girlsAllowed": true,
+                    "boysAllowed": true
+                },
+                "securityGarage": true
+            },
+            
+            "id": "R12356",
+            "title": "Elegant 5 Bedroom Apartment in Baridhara",
+            "description": "An elegant and spacious 5 bedroom apartment in Baridhara, ideal for large families or corporate housing.",
+            "propertyType": "Apartment",
+            "propertyFor": "Rent",
+            "status": "Available",
+            "availableFrom": "2024-09-20",
+            "price": 300000,
+            "advanceFee": 150000,
+            "currency": "BDT",
+            "image": [
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222294/pexels-zvolskiy-2082087_enoo0w.jpg",
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222290/pexels-eye4dtail-129494_s6uabk.jpg"
+            ],
+            "amenities": [
+                "Gym",
+                "Swimming Pool",
+                "24/7 Security",
+                "CCTV",
+                "Community Hall"
+            ]
+           
+            
+           
+        },
+        {
+            "location": {
+                "block": "L",
+                "road": "Park Road",
+                "area": "Banani",
+                "city": "Dhaka",
+                "district": "Dhaka",
+                "division": "Dhaka",
+                "postalCode": 1213,
+                "lat": 23.7925,
+                "long": 90.4036,
+                "number": "01711998877"
+            },
+            "features": {
+                "bedRoom": 3,
+                "bathRoom": 2,
+                "kitchen": 1,
+                "livingRoom": 1,
+                "attachedBathRoom": 2,
+                "squareFeet": 2000,
+                "parking": "Underground",
+                "furnished": true,
+                "hasBalcony": true,
+                "hasPool": false,
+                "hasGarden": true,
+                "hasElevator": true,
+                "hasAirConditioning": true,
+                "hasFridge": true,
+                "hasWifi": true
+            },
+            "security": {
+                "restriction": {
+                    "pets": true,
+                    "smoking": false,
+                    "drink": true,
+                    "drugs": false,
+                    "girlsAllowed": true,
+                    "boysAllowed": true
+                },
+                "securityGarage": true
+            },
+            
+            "id": "R12357",
+            "title": "Modern 3 Bedroom Apartment in Banani",
+            "description": "A modern and well-furnished 3 bedroom apartment in Banani, ideal for small families or professionals.",
+            "propertyType": "Apartment",
+            "propertyFor": "Rent",
+            "status": "Available",
+            "availableFrom": "2024-09-15",
+            "price": 120000,
+            "advanceFee": 60000,
+            "currency": "BDT",
+            "image": [
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222283/pexels-fotoaibe-1571460_wgoikq.jpg",
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222282/pexels-medhat-ayad-122846-439227_wjepce.jpg"
+            ],
+            "amenities": [
+                "Gym",
+                "24/7 Security",
+                "CCTV"
+            ]
+           
+            
+           
+        },
+        {
+            "location": {
+                "block": "M",
+                "road": "Sunset Boulevard",
+                "area": "Bashundhara",
+                "city": "Dhaka",
+                "district": "Dhaka",
+                "division": "Dhaka",
+                "postalCode": 1229,
+                "lat": 23.8062,
+                "long": 90.4288,
+                "number": "01799887766"
+            },
+            "features": {
+                "bedRoom": 4,
+                "bathRoom": 3,
+                "kitchen": 1,
+                "livingRoom": 1,
+                "attachedBathRoom": 3,
+                "squareFeet": 2300,
+                "parking": "Underground",
+                "furnished": true,
+                "hasBalcony": true,
+                "hasPool": true,
+                "hasGarden": true,
+                "hasElevator": true,
+                "hasAirConditioning": true,
+                "hasFridge": true,
+                "hasWifi": true
+            },
+            "security": {
+                "restriction": {
+                    "pets": true,
+                    "smoking": true,
+                    "drink": true,
+                    "drugs": false,
+                    "girlsAllowed": true,
+                    "boysAllowed": true
+                },
+                "securityGarage": true
+            },
+            
+            "id": "R12358",
+            "title": "Elegant 4 Bedroom Apartment in Bashundhara",
+            "description": "An elegant and spacious 4 bedroom apartment in Bashundhara, perfect for high-profile families.",
+            "propertyType": "Apartment",
+            "propertyFor": "Rent",
+            "status": "Available",
+            "availableFrom": "2024-09-25",
+            "price": 220000,
+            "advanceFee": 110000,
+            "currency": "BDT",
+            "image": [
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222282/pexels-pixabay-271624_isd1cr.jpg",
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222277/pexels-fotoaibe-1571468_ulllf8.jpg"
+            ],
+            "amenities": [
+                "Gym",
+                "Swimming Pool",
+                "24/7 Security",
+                "CCTV"
+            ]
+           
+            
+           
+        },
+        {
+            "location": {
+                "block": "N",
+                "road": "Hilltop Avenue",
+                "area": "Uttara",
+                "city": "Dhaka",
+                "district": "Dhaka",
+                "division": "Dhaka",
+                "postalCode": 1230,
+                "lat": 23.8749,
+                "long": 90.4006,
+                "number": "01744556677"
+            },
+            "features": {
+                "bedRoom": 5,
+                "bathRoom": 4,
+                "kitchen": 1,
+                "livingRoom": 2,
+                "attachedBathRoom": 4,
+                "squareFeet": 3200,
+                "parking": "Basement",
+                "furnished": true,
+                "hasBalcony": true,
+                "hasPool": true,
+                "hasGarden": true,
+                "hasElevator": true,
+                "hasAirConditioning": true,
+                "hasFridge": true,
+                "hasWifi": true
+            },
+            "security": {
+                "restriction": {
+                    "pets": true,
+                    "smoking": false,
+                    "drink": true,
+                    "drugs": false,
+                    "girlsAllowed": true,
+                    "boysAllowed": true
+                },
+                "securityGarage": true
+            },
+            
+            "id": "R12359",
+            "title": "Spacious 5 Bedroom Apartment in Uttara",
+            "description": "A spacious and luxurious 5 bedroom apartment in Uttara, ideal for large families or corporate housing.",
+            "propertyType": "Apartment",
+            "propertyFor": "Rent",
+            "status": "Available",
+            "availableFrom": "2024-09-18",
+            "price": 250000,
+            "advanceFee": 125000,
+            "currency": "BDT",
+            "image": [
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222277/pexels-fotoaibe-1571468_ulllf8.jpg",
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222275/pexels-john-tekeridis-21837-1428348_qzpvlk.jpg"
+            ],
+            "amenities": [
+                "Gym",
+                "Swimming Pool",
+                "24/7 Security",
+                "CCTV"
+            ]
+            
+           
+        },
+        {
+            "location": {
+                "block": "O",
+                "road": "Maple Drive",
+                "area": "Mirpur",
+                "city": "Dhaka",
+                "district": "Dhaka",
+                "division": "Dhaka",
+                "postalCode": 1216,
+                "lat": 23.8069,
+                "long": 90.3689,
+                "number": "01799887722"
+            },
+            "features": {
+                "bedRoom": 3,
+                "bathRoom": 2,
+                "kitchen": 1,
+                "livingRoom": 1,
+                "attachedBathRoom": 2,
+                "squareFeet": 1800,
+                "parking": "Ground Floor",
+                "furnished": true,
+                "hasBalcony": true,
+                "hasPool": false,
+                "hasGarden": true,
+                "hasElevator": true,
+                "hasAirConditioning": true,
+                "hasFridge": true,
+                "hasWifi": true
+            },
+            "security": {
+                "restriction": {
+                    "pets": true,
+                    "smoking": true,
+                    "drink": true,
+                    "drugs": false,
+                    "girlsAllowed": true,
+                    "boysAllowed": true
+                },
+                "securityGarage": true
+            },
+            
+            "id": "R12360",
+            "title": "Cozy 3 Bedroom Apartment in Mirpur",
+            "description": "A cozy and well-furnished 3 bedroom apartment in Mirpur, perfect for small families or professionals.",
+            "propertyType": "Apartment",
+            "propertyFor": "Rent",
+            "status": "Available",
+            "availableFrom": "2024-09-10",
+            "price": 80000,
+            "advanceFee": 40000,
+            "currency": "BDT",
+            "image": [
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222271/pexels-fotoaibe-813692_egcehz.jpg",
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222270/pexels-medhat-ayad-122846-439227_1_famrqs.jpg"
+            ],
+            "amenities": [
+                "Gym",
+                "24/7 Security",
+                "CCTV"
+            ]
+            
+           
+        },
+        {
+            "location": {
+                "block": "P",
+                "road": "Sunrise Street",
+                "area": "Mohammadpur",
+                "city": "Dhaka",
+                "district": "Dhaka",
+                "division": "Dhaka",
+                "postalCode": 1207,
+                "lat": 23.7607,
+                "long": 90.3576,
+                "number": "01822334455"
+            },
+            "features": {
+                "bedRoom": 4,
+                "bathRoom": 3,
+                "kitchen": 1,
+                "livingRoom": 1,
+                "attachedBathRoom": 3,
+                "squareFeet": 2100,
+                "parking": "Underground",
+                "furnished": true,
+                "hasBalcony": true,
+                "hasPool": true,
+                "hasGarden": true,
+                "hasElevator": true,
+                "hasAirConditioning": true,
+                "hasFridge": true,
+                "hasWifi": true
+            },
+            "security": {
+                "restriction": {
+                    "pets": true,
+                    "smoking": false,
+                    "drink": true,
+                    "drugs": false,
+                    "girlsAllowed": true,
+                    "boysAllowed": true
+                },
+                "securityGarage": true
+            },
+            
+            "id": "R12361",
+            "title": "Spacious 4 Bedroom Apartment in Mohammadpur",
+            "description": "A spacious and luxurious 4 bedroom apartment in Mohammadpur, ideal for large families or corporate housing.",
+            "propertyType": "Apartment",
+            "propertyFor": "Rent",
+            "status": "Available",
+            "availableFrom": "2024-09-14",
+            "price": 180000,
+            "advanceFee": 90000,
+            "currency": "BDT",
+            "image": [
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222271/pexels-fotoaibe-813692_egcehz.jpg",
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222270/pexels-medhat-ayad-122846-439227_1_famrqs.jpg"
+            ],
+            "amenities": [
+                "Gym",
+                "Swimming Pool",
+                "24/7 Security",
+                "CCTV"
+            ]
+           
+            
+           
+        },
+        {
+            "location": {
+                "block": "Q",
+                "road": "Riverside Road",
+                "area": "Nikunja",
+                "city": "Dhaka",
+                "district": "Dhaka",
+                "division": "Dhaka",
+                "postalCode": 1229,
+                "lat": 23.8142,
+                "long": 90.4251,
+                "number": "01777445566"
+            },
+            "features": {
+                "bedRoom": 3,
+                "bathRoom": 2,
+                "kitchen": 1,
+                "livingRoom": 1,
+                "attachedBathRoom": 2,
+                "squareFeet": 1900,
+                "parking": "Underground",
+                "furnished": true,
+                "hasBalcony": true,
+                "hasPool": false,
+                "hasGarden": true,
+                "hasElevator": true,
+                "hasAirConditioning": true,
+                "hasFridge": true,
+                "hasWifi": true
+            },
+            "security": {
+                "restriction": {
+                    "pets": true,
+                    "smoking": true,
+                    "drink": true,
+                    "drugs": false,
+                    "girlsAllowed": true,
+                    "boysAllowed": true
+                },
+                "securityGarage": true
+            },
+            
+            "id": "R12362",
+            "title": "Cozy 3 Bedroom Apartment in Nikunja",
+            "description": "A cozy and well-furnished 3 bedroom apartment in Nikunja, perfect for small families or professionals.",
+            "propertyType": "Apartment",
+            "propertyFor": "Rent",
+            "status": "Available",
+            "availableFrom": "2024-09-12",
+            "price": 100000,
+            "advanceFee": 50000,
+            "currency": "BDT",
+            "image": [
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222271/pexels-fotoaibe-813692_egcehz.jpg",
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222268/pexels-pixabay-259962_xk48mm.jpg"
+            ],
+            "amenities": [
+                "Gym",
+                "24/7 Security",
+                "CCTV"
+            ]
+           
+            
+           
+        },
+        {
+            "location": {
+                "block": "R",
+                "road": "Green View",
+                "area": "Banani",
+                "city": "Dhaka",
+                "district": "Dhaka",
+                "division": "Dhaka",
+                "postalCode": 1213,
+                "lat": 23.7913,
+                "long": 90.4007,
+                "number": "01722558899"
+            },
+            "features": {
+                "bedRoom": 4,
+                "bathRoom": 3,
+                "kitchen": 1,
+                "livingRoom": 1,
+                "attachedBathRoom": 3,
+                "squareFeet": 2200,
+                "parking": "Underground",
+                "furnished": true,
+                "hasBalcony": true,
+                "hasPool": true,
+                "hasGarden": true,
+                "hasElevator": true,
+                "hasAirConditioning": true,
+                "hasFridge": true,
+                "hasWifi": true
+            },
+            "security": {
+                "restriction": {
+                    "pets": true,
+                    "smoking": false,
+                    "drink": true,
+                    "drugs": false,
+                    "girlsAllowed": true,
+                    "boysAllowed": true
+                },
+                "securityGarage": true
+            },
+            
+            "id": "R12363",
+            "title": "Luxury 4 Bedroom Apartment in Banani",
+            "description": "A luxurious and well-furnished 4 bedroom apartment in Banani, perfect for professionals or large families.",
+            "propertyType": "Apartment",
+            "propertyFor": "Rent",
+            "status": "Available",
+            "availableFrom": "2024-09-16",
+            "price": 150000,
+            "advanceFee": 75000,
+            "currency": "BDT",
+            "image": [
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222258/pexels-falling4utah-2724749_avbel8.jpg",
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222257/pexels-pixasquare-1115804_ncmias.jpg"
+            ],
+            "amenities": [
+                "Gym",
+                "Swimming Pool",
+                "24/7 Security",
+                "CCTV"
+            ]
+            
+           
+        },
+        {
+            "location": {
+                "block": "S",
+                "road": "Royal Palm Lane",
+                "area": "Baridhara",
+                "city": "Dhaka",
+                "district": "Dhaka",
+                "division": "Dhaka",
+                "postalCode": 1212,
+                "lat": 23.7966,
+                "long": 90.4196,
+                "number": "01955667788"
+            },
+            "features": {
+                "bedRoom": 5,
+                "bathRoom": 4,
+                "kitchen": 1,
+                "livingRoom": 2,
+                "attachedBathRoom": 4,
+                "squareFeet": 3500,
+                "parking": "Basement",
+                "furnished": true,
+                "hasBalcony": true,
+                "hasPool": true,
+                "hasGarden": true,
+                "hasElevator": true,
+                "hasAirConditioning": true,
+                "hasFridge": true,
+                "hasWifi": true
+            },
+            "security": {
+                "restriction": {
+                    "pets": true,
+                    "smoking": false,
+                    "drink": true,
+                    "drugs": false,
+                    "girlsAllowed": true,
+                    "boysAllowed": true
+                },
+                "securityGarage": true
+            },
+            
+            "id": "R12364",
+            "title": "Luxury 5 Bedroom Apartment in Baridhara",
+            "description": "A luxurious and spacious 5 bedroom apartment in Baridhara, ideal for diplomats and expatriates.",
+            "propertyType": "Apartment",
+            "propertyFor": "Rent",
+            "status": "Available",
+            "availableFrom": "2024-09-20",
+            "price": 350000,
+            "advanceFee": 175000,
+            "currency": "BDT",
+            "image": [
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222258/pexels-wdnet-565324_jzkjiw.jpg",
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222255/pexels-fotoaibe-1571472_zju38a.jpg "
+            ],
+            "amenities": [
+                "Gym",
+                "Swimming Pool",
+                "24/7 Security",
+                "CCTV"
+            ]
+           
+            
+           
+        },
+        {
+            "location": {
+                "block": "T",
+                "road": "Palm Grove",
+                "area": "Gulshan",
+                "city": "Dhaka",
+                "district": "Dhaka",
+                "division": "Dhaka",
+                "postalCode": 1212,
+                "lat": 23.7946,
+                "long": 90.4136,
+                "number": "01999887766"
+            },
+            "features": {
+                "bedRoom": 6,
+                "bathRoom": 5,
+                "kitchen": 1,
+                "livingRoom": 3,
+                "attachedBathRoom": 5,
+                "squareFeet": 4000,
+                "parking": "Basement",
+                "furnished": true,
+                "hasBalcony": true,
+                "hasPool": true,
+                "hasGarden": true,
+                "hasElevator": true,
+                "hasAirConditioning": true,
+                "hasFridge": true,
+                "hasWifi": true
+            },
+            "security": {
+                "restriction": {
+                    "pets": true,
+                    "smoking": false,
+                    "drink": true,
+                    "drugs": false,
+                    "girlsAllowed": true,
+                    "boysAllowed": true
+                },
+                "securityGarage": true
+            },
+            
+            "id": "R12365",
+            "title": "Spacious 6 Bedroom Apartment in Gulshan",
+            "description": "A luxurious and expansive 6 bedroom apartment in Gulshan, perfect for diplomats, expatriates, or large families.",
+            "propertyType": "Apartment",
+            "propertyFor": "Rent",
+            "status": "Available",
+            "availableFrom": "2024-09-22",
+            "price": 450000,
+            "advanceFee": 225000,
+            "currency": "BDT",
+            "image": [
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222250/pexels-pixabay-534172_ff4ngs.jpg",
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222249/pexels-pixabay-462235_cpvepm.jpg"
+            ],
+            "amenities": [
+                "Gym",
+                "Swimming Pool",
+                "24/7 Security",
+                "CCTV"
+            ]
+           
+            
+           
+        },
+        {
+            "location": {
+                "block": "U",
+                "road": "Mango Lane",
+                "area": "Banasree",
+                "city": "Dhaka",
+                "district": "Dhaka",
+                "division": "Dhaka",
+                "postalCode": 1219,
+                "lat": 23.7658,
+                "long": 90.4192,
+                "number": "01722334455"
+            },
+            "features": {
+                "bedRoom": 4,
+                "bathRoom": 3,
+                "kitchen": 1,
+                "livingRoom": 2,
+                "attachedBathRoom": 3,
+                "squareFeet": 2400,
+                "parking": "Ground Floor",
+                "furnished": true,
+                "hasBalcony": true,
+                "hasPool": true,
+                "hasGarden": true,
+                "hasElevator": true,
+                "hasAirConditioning": true,
+                "hasFridge": true,
+                "hasWifi": true
+            },
+            "security": {
+                "restriction": {
+                    "pets": true,
+                    "smoking": false,
+                    "drink": true,
+                    "drugs": false,
+                    "girlsAllowed": true,
+                    "boysAllowed": true
+                },
+                "securityGarage": true
+            },
+            
+            "id": "R12366",
+            "title": "Spacious 4 Bedroom Apartment in Banasree",
+            "description": "A spacious and well-furnished 4 bedroom apartment in Banasree, perfect for families looking for comfort and convenience.",
+            "propertyType": "Apartment",
+            "propertyFor": "Rent",
+            "status": "Available",
+            "availableFrom": "2024-09-25",
+            "price": 180000,
+            "advanceFee": 90000,
+            "currency": "BDT",
+            "image": [
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222126/pexels-pixabay-276554_le2cto.jpg",
+                "https://res.cloudinary.com/duid69e8r/image/upload/v1725222125/pexels-expect-best-79873-323772_ynrp0f.jpg"
+            ],
+            "amenities": [
+                "Gym",
+                "Swimming Pool",
+                "24/7 Security",
+                "CCTV"
+            ]
+           
+            
+           
+        }
+,
+{
+"location": {
+    "block": "A",
+    "road": "10th Street",
+    "area": "Dhanmondi",
+    "city": "Dhaka",
+    "district": "Dhaka",
+    "division": "Dhaka",
+    "postalCode": 1209,
+    "lat": 23.746466,
+    "long": 90.376015,
+    "number": "01712345678"
+},
+"features": {
+    "bedRoom": 3,
+    "bathRoom": 2,
+    "kitchen": 1,
+    "livingRoom": 1,
+    "attachedBathRoom": 2,
+    "squareFeet": 1800,
+    "parking": "Ground",
+    "furnished": false,
+    "hasBalcony": true,
+    "hasPool": false,
+    "hasGarden": true,
+    "hasElevator": true,
+    "hasAirConditioning": false,
+    "hasFridge": true,
+    "hasWifi": true
+},
+"security": {
+    "restriction": {
+        "pets": false,
+        "smoking": false,
+        "drink": false,
+        "drugs": false,
+        "girlsAllowed": true,
+        "boysAllowed": true
+    },
+    "securityGarage": true
+},
+
+"id": "R12346",
+"title": "Spacious 3 Bedroom Apartment in Dhanmondi",
+"description": "A spacious and comfortable 3 bedroom apartment with modern amenities located in Dhanmondi. Ideal for families.",
+"propertyType": "Apartment",
+"propertyFor": "Rent",
+"status": "Available",
+"availableFrom": "2024-10-01",
+"price": 50000,
+"advanceFee": 25000,
+"currency": "BDT",
+"image": [
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222124/pexels-emrecan-2079246_kgya9n.jpg",
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222122/pexels-christa-grover-977018-2121121_kecjg9.jpg"
+],
+"amenities": [
+    "Gym",
+    "24/7 Security",
+    "CCTV",
+    "Community Hall"
+]
+},
+{
+"location": {
+    "block": "B",
+    "road": "15th Avenue",
+    "area": "Gulshan",
+    "city": "Dhaka",
+    "district": "Dhaka",
+    "division": "Dhaka",
+    "postalCode": 1212,
+    "lat": 23.7925,
+    "long": 90.4078,
+    "number": "01712345679"
+},
+"features": {
+    "bedRoom": 4,
+    "bathRoom": 3,
+    "kitchen": 1,
+    "livingRoom": 1,
+    "attachedBathRoom": 2,
+    "squareFeet": 2200,
+    "parking": "Basement",
+    "furnished": true,
+    "hasBalcony": true,
+    "hasPool": true,
+    "hasGarden": false,
+    "hasElevator": true,
+    "hasAirConditioning": true,
+    "hasFridge": true,
+    "hasWifi": true
+},
+"security": {
+    "restriction": {
+        "pets": true,
+        "smoking": false,
+        "drink": false,
+        "drugs": false,
+        "girlsAllowed": true,
+        "boysAllowed": true
+    },
+    "securityGarage": true
+},
+
+"id": "R12347",
+"title": "Luxury 4 Bedroom Apartment in Gulshan",
+"description": "A luxurious and spacious 4 bedroom apartment with top-class amenities located in the heart of Gulshan. Perfect for executives.",
+"propertyType": "Apartment",
+"propertyFor": "Rent",
+"status": "Available",
+"availableFrom": "2024-09-15",
+"price": 120000,
+"advanceFee": 60000,
+"currency": "BDT",
+"image": [
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222120/pexels-naimbic-2030037_ktu540.jpg",
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222121/pexels-pixabay-533157_c17376.jpg"
+],
+"amenities": [
+    "Gym",
+    "24/7 Security",
+    "CCTV",
+    "Swimming Pool"
+]
+},
+{
+"location": {
+    "block": "C",
+    "road": "7th Lane",
+    "area": "Bashundhara",
+    "city": "Dhaka",
+    "district": "Dhaka",
+    "division": "Dhaka",
+    "postalCode": 1229,
+    "lat": 23.8151,
+    "long": 90.4286,
+    "number": "01876543210"
+},
+"features": {
+    "bedRoom": 3,
+    "bathRoom": 2,
+    "kitchen": 1,
+    "livingRoom": 1,
+    "attachedBathRoom": 1,
+    "squareFeet": 1800,
+    "parking": "Ground",
+    "furnished": false,
+    "hasBalcony": true,
+    "hasPool": false,
+    "hasGarden": true,
+    "hasElevator": true,
+    "hasAirConditioning": false,
+    "hasFridge": true,
+    "hasWifi": true
+},
+"security": {
+    "restriction": {
+        "pets": false,
+        "smoking": false,
+        "drink": false,
+        "drugs": false,
+        "girlsAllowed": true,
+        "boysAllowed": true
+    },
+    "securityGarage": true
+},
+
+"id": "R12348",
+"title": "Cozy 3 Bedroom Apartment in Bashundhara",
+"description": "A cozy 3 bedroom apartment with modern amenities, ideal for families, located in Bashundhara.",
+"propertyType": "Apartment",
+"propertyFor": "Rent",
+"status": "Available",
+"availableFrom": "2024-09-25",
+"price": 55000,
+"advanceFee": 30000,
+"currency": "BDT",
+"image": [
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222121/pexels-pixabay-533157_c17376.jpg",
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222113/pexels-pixabay-271795_uvxasf.jpg"
+],
+"amenities": [
+    "24/7 Security",
+    "CCTV",
+    "Community Hall"
+]
+},
+{
+"location": {
+    "block": "D",
+    "road": "30th Road",
+    "area": "Banani",
+    "city": "Dhaka",
+    "district": "Dhaka",
+    "division": "Dhaka",
+    "postalCode": 1213,
+    "lat": 23.7802,
+    "long": 90.4000,
+    "number": "01654321098"
+},
+"features": {
+    "bedRoom": 2,
+    "bathRoom": 2,
+    "kitchen": 1,
+    "livingRoom": 1,
+    "attachedBathRoom": 2,
+    "squareFeet": 1600,
+    "parking": "Ground",
+    "furnished": true,
+    "hasBalcony": true,
+    "hasPool": false,
+    "hasGarden": false,
+    "hasElevator": true,
+    "hasAirConditioning": true,
+    "hasFridge": true,
+    "hasWifi": true
+},
+"security": {
+    "restriction": {
+        "pets": false,
+        "smoking": false,
+        "drink": false,
+        "drugs": false,
+        "girlsAllowed": true,
+        "boysAllowed": true
+    },
+    "securityGarage": true
+},
+
+"id": "R12349",
+"title": "Modern 2 Bedroom Apartment in Banani",
+"description": "A modern and well-furnished 2 bedroom apartment in Banani, perfect for small families or professionals.",
+"propertyType": "Apartment",
+"propertyFor": "Rent",
+"status": "Available",
+"availableFrom": "2024-10-01",
+"price": 75000,
+"advanceFee": 40000,
+"currency": "BDT",
+"image": [
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222113/pexels-pixabay-271795_uvxasf.jpg",
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222112/pexels-ilya-shakir-1278798-2440471_qazlkw.jpg"
+],
+"amenities": [
+    "24/7 Security",
+    "CCTV",
+    "Gym"
+]
+},
+{
+"location": {
+    "block": "E",
+    "road": "Main Road",
+    "area": "Mohammadpur",
+    "city": "Dhaka",
+    "district": "Dhaka",
+    "division": "Dhaka",
+    "postalCode": 1207,
+    "lat": 23.7603,
+    "long": 90.3667,
+    "number": "01543210987"
+},
+"features": {
+    "bedRoom": 2,
+    "bathRoom": 1,
+    "kitchen": 1,
+    "livingRoom": 1,
+    "attachedBathRoom": 1,
+    "squareFeet": 1400,
+    "parking": "Basement",
+    "furnished": false,
+    "hasBalcony": true,
+    "hasPool": false,
+    "hasGarden": true,
+    "hasElevator": true,
+    "hasAirConditioning": false,
+    "hasFridge": true,
+    "hasWifi": true
+},
+"security": {
+    "restriction": {
+        "pets": true,
+        "smoking": true,
+        "drink": true,
+        "drugs": false,
+        "girlsAllowed": true,
+        "boysAllowed": true
+    },
+    "securityGarage": true
+},
+
+"id": "R12350",
+"title": "Affordable 2 Bedroom Apartment in Mohammadpur",
+"description": "An affordable and comfortable 2 bedroom apartment with modern amenities, ideal for small families, located in Mohammadpur.",
+"propertyType": "Apartment",
+"propertyFor": "Rent",
+"status": "Available",
+"availableFrom": "2024-09-10",
+"price": 40000,
+"advanceFee": 20000,
+"currency": "BDT",
+"image": [
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222109/pexels-andrew-3201763_li3cnr.jpg",
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222103/pexels-fotoaibe-1571469_zv9xlb.jpg"
+],
+"amenities": [
+    "24/7 Security",
+    "CCTV",
+    "Community Hall"
+]
+}
+{
+"location": {
+    "block": "F",
+    "road": "College Road",
+    "area": "Mirpur",
+    "city": "Dhaka",
+    "district": "Dhaka",
+    "division": "Dhaka",
+    "postalCode": 1216,
+    "lat": 23.8045,
+    "long": 90.3665,
+    "number": "01755443322"
+},
+"features": {
+    "bedRoom": 2,
+    "bathRoom": 1,
+    "kitchen": 1,
+    "livingRoom": 1,
+    "attachedBathRoom": 1,
+    "squareFeet": 1100,
+    "parking": "Ground",
+    "furnished": false,
+    "hasBalcony": true,
+    "hasPool": false,
+    "hasGarden": false,
+    "hasElevator": false,
+    "hasAirConditioning": false,
+    "hasFridge": true,
+    "hasWifi": true
+},
+"security": {
+    "restriction": {
+        "pets": true,
+        "smoking": false,
+        "drink": false,
+        "drugs": false,
+        "girlsAllowed": true,
+        "boysAllowed": true
+    },
+    "securityGarage": true
+},
+
+"id": "R12351",
+"title": "Comfortable 2 Bedroom Apartment in Mirpur",
+"description": "A comfortable and well-maintained 2 bedroom apartment located in Mirpur, suitable for small families.",
+"propertyType": "Apartment",
+"propertyFor": "Rent",
+"status": "Available",
+"availableFrom": "2024-09-20",
+"price": 30000,
+"advanceFee": 15000,
+"currency": "BDT",
+"image": [
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222096/pexels-pixabay-280232_dy2fjk.jpg",
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222103/pexels-fotoaibe-1571469_zv9xlb.jpg"
+],
+"amenities": [
+    "24/7 Security",
+    "CCTV"
+]
+},
+{
+"location": {
+    "block": "G",
+    "road": "5th Street",
+    "area": "Uttara",
+    "city": "Dhaka",
+    "district": "Dhaka",
+    "division": "Dhaka",
+    "postalCode": 1230,
+    "lat": 23.8759,
+    "long": 90.3796,
+    "number": "01733221100"
+},
+"features": {
+    "bedRoom": 3,
+    "bathRoom": 2,
+    "kitchen": 1,
+    "livingRoom": 1,
+    "attachedBathRoom": 2,
+    "squareFeet": 1500,
+    "parking": "Basement",
+    "furnished": true,
+    "hasBalcony": true,
+    "hasPool": false,
+    "hasGarden": true,
+    "hasElevator": true,
+    "hasAirConditioning": false,
+    "hasFridge": true,
+    "hasWifi": true
+},
+"security": {
+    "restriction": {
+        "pets": false,
+        "smoking": false,
+        "drink": false,
+        "drugs": false,
+        "girlsAllowed": true,
+        "boysAllowed": true
+    },
+    "securityGarage": true
+},
+
+"id": "R12352",
+"title": "Modern 3 Bedroom Apartment in Uttara",
+"description": "A modern 3 bedroom apartment in Uttara with excellent facilities, suitable for families or professionals.",
+"propertyType": "Apartment",
+"propertyFor": "Rent",
+"status": "Available",
+"availableFrom": "2024-09-15",
+"price": 60000,
+"advanceFee": 30000,
+"currency": "BDT",
+"image": [
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222096/pexels-pixabay-280232_dy2fjk.jpg",
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222096/pexels-julieaagaard-2467285_ta8fjh.jpg"
+],
+"amenities": [
+    "Gym",
+    "24/7 Security",
+    "CCTV"
+]
+
+
+},
+{
+"location": {
+    "block": "H",
+    "road": "12th Lane",
+    "area": "Banasree",
+    "city": "Dhaka",
+    "district": "Dhaka",
+    "division": "Dhaka",
+    "postalCode": 1219,
+    "lat": 23.7600,
+    "long": 90.4225,
+    "number": "01789876543"
+},
+"features": {
+    "bedRoom": 3,
+    "bathRoom": 2,
+    "kitchen": 1,
+    "livingRoom": 1,
+    "attachedBathRoom": 2,
+    "squareFeet": 1700,
+    "parking": "Basement",
+    "furnished": false,
+    "hasBalcony": true,
+    "hasPool": false,
+    "hasGarden": false,
+    "hasElevator": true,
+    "hasAirConditioning": false,
+    "hasFridge": true,
+    "hasWifi": true
+},
+"security": {
+    "restriction": {
+        "pets": false,
+        "smoking": false,
+        "drink": false,
+        "drugs": false,
+        "girlsAllowed": true,
+        "boysAllowed": true
+    },
+    "securityGarage": true
+},
+
+"id": "R12353",
+"title": "Spacious 3 Bedroom Apartment in Banasree",
+"description": "A spacious 3 bedroom apartment in Banasree with good amenities, ideal for families.",
+"propertyType": "Apartment",
+"propertyFor": "Rent",
+"status": "Available",
+"availableFrom": "2024-09-25",
+"price": 50000,
+"advanceFee": 25000,
+"currency": "BDT",
+"image": [
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222095/pexels-jvdm-1457844_aasjmq.jpg",
+    "https://res.cloudinary.com/duid69e8r/image/upload/v1725222095/pexels-home-decor-interiors-634144-1827054_bk3d7s.jpg"
+],
+"amenities": [
+    "24/7 Security",
+    "CCTV",
+    "Community Hall"
+]
+
+
+},
+{
+    "location": {
+        "block": "A",
+        "road": "8th Street",
+        "area": "Gulshan",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1212,
+        "lat": 23.794500,
+        "long": 90.406500,
+        "number": "01712345670"
+    },
+    "features": {
+        "bedRoom": 3,
+        "bathRoom": 2,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 1,
+        "squareFeet": 1800,
+        "parking": "Covered",
+        "furnished": true,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": true,
+        "hasElevator": true,
+        "hasAirConditioning": true,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": true,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": true
+    },
+    
+    "id": "R12376",
+    "title": "Spacious 3 Bedroom Apartment in Gulshan",
+    "description": "A spacious and well-furnished 3 bedroom apartment in Gulshan with a garden and modern amenities.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-09-15",
+    "price": 130000,
+    "advanceFee": 65000,
+    "currency": "BDT",
+    "image": [
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725222087/pexels-pixabay-276666_hsvtp4.jpg",
+        "https://example.com/images/apartment_gulshan2.jpg"
+    ],
+    "amenities": [
+        "Gym",
+        "Garden",
+        "24/7 Security",
+        "CCTV"
+    ],
+   
+    
+   
+},
+{
+    "location": {
+        "block": "B",
+        "road": "10th Avenue",
+        "area": "Dhanmondi",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1209,
+        "lat": 23.779000,
+        "long": 90.377000,
+        "number": "01712345671"
+    },
+    "features": {
+        "bedRoom": 2,
+        "bathRoom": 1,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 1,
+        "squareFeet": 1200,
+        "parking": "Ground",
+        "furnished": false,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": false,
+        "hasElevator": false,
+        "hasAirConditioning": true,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": true,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": false
+    },
+    
+    "id": "R12377",
+    "title": "Cozy 2 Bedroom Apartment in Dhanmondi",
+    "description": "A cozy and well-located 2 bedroom apartment in Dhanmondi, ideal for small families.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-09-22",
+    "price": 50000,
+    "advanceFee": 25000,
+    "currency": "BDT",
+    "image": [
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725222087/pexels-jvdm-1543447_zjmxao.jpg",
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725222085/pexels-houzlook-3797991_cdn7vg.jpg"
+    ],
+    "amenities": [
+        "24/7 Security",
+        "CCTV"
+    ]
+   
+    
+   
+},
+{
+    "location": {
+        "block": "D",
+        "road": "6th Street",
+        "area": "Bashundhara",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1229,
+        "lat": 23.797500,
+        "long": 90.403000,
+        "number": "01712345672"
+    },
+    "features": {
+        "bedRoom": 3,
+        "bathRoom": 2,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 1,
+        "squareFeet": 2000,
+        "parking": "Underground",
+        "furnished": true,
+        "hasBalcony": true,
+        "hasPool": true,
+        "hasGarden": true,
+        "hasElevator": true,
+        "hasAirConditioning": true,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": false,
+            "smoking": false,
+            "drink": true,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": true
+    },
+    
+    "id": "R12378",
+    "title": "Elegant 3 Bedroom Apartment in Bashundhara",
+    "description": "An elegant and spacious 3 bedroom apartment in Bashundhara with a pool and garden.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-10-01",
+    "price": 150000,
+    "advanceFee": 75000,
+    "currency": "BDT",
+    "image": [
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725222085/pexels-houzlook-3797991_cdn7vg.jpg",
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725222085/pexels-houzlook-3797991_cdn7vg.jpg"
+    ],
+    "amenities": [
+        "Gym",
+        "Swimming Pool",
+        "Garden",
+        "24/7 Security",
+        "CCTV"
+    ]
+   
+    
+   
+},
+{
+    "location": {
+        "block": "F",
+        "road": "12th Road",
+        "area": "Jatiyo Kabi Kazi Nazrul Islam Avenue",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1212,
+        "lat": 23.787000,
+        "long": 90.375000,
+        "number": "01712345673"
+    },
+    "features": {
+        "bedRoom": 4,
+        "bathRoom": 3,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 2,
+        "squareFeet": 2500,
+        "parking": "Underground",
+        "furnished": true,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": true,
+        "hasElevator": true,
+        "hasAirConditioning": true,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": false,
+            "smoking": false,
+            "drink": true,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": true
+    },
+    
+    "id": "R12379",
+    "title": "Luxurious 4 Bedroom Apartment in Jatiyo Kabi",
+    "description": "A luxurious 4 bedroom apartment with a garden and modern amenities in Jatiyo Kabi area.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-10-10",
+    "price": 200000,
+    "advanceFee": 100000,
+    "currency": "BDT",
+    "image": [
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725221953/pexels-pixabay-271654_d1x6nj.jpg",
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725221953/pexels-naimbic-2029667_pvi60t.jpg"
+    ],
+    "amenities": [
+        "Garden",
+        "24/7 Security",
+        "CCTV"
+    ]
+   
+    
+   
+},
+{
+    "location": {
+        "block": "G",
+        "road": "7th Avenue",
+        "area": "Banani",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1213,
+        "lat": 23.802000,
+        "long": 90.407000,
+        "number": "01712345674"
+    },
+    "features": {
+        "bedRoom": 2,
+        "bathRoom": 1,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 1,
+        "squareFeet": 1300,
+        "parking": "Covered",
+        "furnished": false,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": false,
+        "hasElevator": false,
+        "hasAirConditioning": true,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": true,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": false
+    },
+    
+    "id": "R12380",
+    "title": "Comfortable 2 Bedroom Apartment in Banani",
+    "description": "A comfortable and well-maintained 2 bedroom apartment in Banani, perfect for small families.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-09-25",
+    "price": 55000,
+    "advanceFee": 27500,
+    "currency": "BDT",
+    "image": [
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725221952/pexels-spencer-selover-142259-706137_pplpat.jpg",
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725221950/pexels-fotoaibe-1743229_avegeu.jpg"
+    ],
+    "amenities": [
+        "24/7 Security",
+        "CCTV"
+    ]
+   
+    
+   
+},
+{
+    "location": {
+        "block": "H",
+        "road": "5th Street",
+        "area": "Khilgaon",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1219,
+        "lat": 23.764000,
+        "long": 90.376000,
+        "number": "01712345675"
+    },
+    "features": {
+        "bedRoom": 2,
+        "bathRoom": 1,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 1,
+        "squareFeet": 1000,
+        "parking": "Ground",
+        "furnished": true,
+        "hasBalcony": false,
+        "hasPool": false,
+        "hasGarden": false,
+        "hasElevator": false,
+        "hasAirConditioning": true,
+        "hasFridge": false,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": true,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": false
+    },
+    
+    "id": "R12381",
+    "title": "Nice 2 Bedroom Apartment in Khilgaon",
+    "description": "A nice and budget-friendly 2 bedroom apartment in Khilgaon with essential amenities.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-10-05",
+    "price": 40000,
+    "advanceFee": 20000,
+    "currency": "BDT",
+    "image": [
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725221950/pexels-pixabay-271614_puszan.jpg",
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725221947/pexels-jonathanborba-3144580_rkagrj.jpg"
+    ],
+    "amenities": [
+        "24/7 Security",
+        "CCTV"
+    ]
+   
+    
+   
+},
+{
+    "location": {
+        "block": "I",
+        "road": "9th Avenue",
+        "area": "Mohammadpur",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1207,
+        "lat": 23.762000,
+        "long": 90.368000,
+        "number": "01712345676"
+    },
+    "features": {
+        "bedRoom": 3,
+        "bathRoom": 2,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 1,
+        "squareFeet": 1900,
+        "parking": "Covered",
+        "furnished": true,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": false,
+        "hasElevator": true,
+        "hasAirConditioning": true,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": true,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": true
+    },
+    
+    "id": "R12382",
+    "title": "Spacious 3 Bedroom Apartment in Mohammadpur",
+    "description": "A spacious 3 bedroom apartment in Mohammadpur with modern amenities and convenient location.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-10-15",
+    "price": 75000,
+    "advanceFee": 37500,
+    "currency": "BDT",
+    "image": [
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725221947/pexels-alfinauzikri-2968141_hmgpnz.jpg",
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725221939/pexels-pixabay-272802_z8zqu5.jpg"
+    ],
+    "amenities": [
+        "24/7 Security",
+        "CCTV"
+    ]
+   
+    
+   
+},
+{
+    "location": {
+        "block": "J",
+        "road": "11th Road",
+        "area": "Shyamoli",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1212,
+        "lat": 23.759000,
+        "long": 90.367000,
+        "number": "01712345677"
+    },
+    "features": {
+        "bedRoom": 3,
+        "bathRoom": 2,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 1,
+        "squareFeet": 2000,
+        "parking": "Ground",
+        "furnished": true,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": true,
+        "hasElevator": true,
+        "hasAirConditioning": true,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": true,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": true
+    },
+    
+    "id": "R12383",
+    "title": "Beautiful 3 Bedroom Apartment in Shyamoli",
+    "description": "A beautiful 3 bedroom apartment in Shyamoli with modern amenities and garden access.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-10-20",
+    "price": 85000,
+    "advanceFee": 42500,
+    "currency": "BDT",
+    "image": [
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725221938/pexels-joshsorenson-1714430_tw2zla.jpg",
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725221938/pexels-pixabay-276508_ziqi10.jpg"
+    ],
+    "amenities": [
+        "Garden",
+        "24/7 Security",
+        "CCTV"
+    ]
+   
+    
+   
+},
+{
+    "location": {
+        "block": "K",
+        "road": "4th Street",
+        "area": "Mirpur",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1216,
+        "lat": 23.805000,
+        "long": 90.360000,
+        "number": "01712345678"
+    },
+    "features": {
+        "bedRoom": 2,
+        "bathRoom": 1,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 1,
+        "squareFeet": 1100,
+        "parking": "Covered",
+        "furnished": false,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": false,
+        "hasElevator": false,
+        "hasAirConditioning": true,
+        "hasFridge": false,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": true,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": false
+    },
+    
+    "id": "R12384",
+    "title": "Compact 2 Bedroom Apartment in Mirpur",
+    "description": "A compact 2 bedroom apartment in Mirpur with essential amenities for a comfortable living.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-10-01",
+    "price": 45000,
+    "advanceFee": 22500,
+    "currency": "BDT",
+    "image": [
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725221932/pexels-pixabay-269262_edhldk.jpg",
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725221938/pexels-pixabay-276508_ziqi10.jpg"
+    ],
+    "amenities": [
+        "24/7 Security",
+        "CCTV"
+    ]
+   
+    
+   
+},
+{
+    "location": {
+        "block": "L",
+        "road": "3rd Avenue",
+        "area": "Lalmatia",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1207,
+        "lat": 23.762500,
+        "long": 90.372500,
+        "number": "01712345679"
+    },
+    "features": {
+        "bedRoom": 3,
+        "bathRoom": 2,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 1,
+        "squareFeet": 1700,
+        "parking": "Covered",
+        "furnished": true,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": true,
+        "hasElevator": true,
+        "hasAirConditioning": true,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": true,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": true
+    },
+    
+    "id": "R12385",
+    "title": "Well-maintained 3 Bedroom Apartment in Lalmatia",
+    "description": "A well-maintained 3 bedroom apartment in Lalmatia with garden access and modern amenities.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-10-20",
+    "price": 70000,
+    "advanceFee": 35000,
+    "currency": "BDT",
+    "image": [
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725221930/pexels-jvdm-2416933_seskkb.jpg",
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725221829/pexels-albeg-27023452_fkicr7.jpg"
+    ],
+    "amenities": [
+        "Garden",
+        "24/7 Security",
+        "CCTV"
+    ]
+   
+    
+   
+},
+{
+    "location": {
+        "block": "M",
+        "road": "8th Avenue",
+        "area": "Uttara",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1230,
+        "lat": 23.871500,
+        "long": 90.399500,
+        "number": "01712345680"
+    },
+    "features": {
+        "bedRoom": 2,
+        "bathRoom": 1,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 1,
+        "squareFeet": 1400,
+        "parking": "Ground",
+        "furnished": true,
+        "hasBalcony": true,
+        "hasPool": false,
+        "hasGarden": false,
+        "hasElevator": false,
+        "hasAirConditioning": true,
+        "hasFridge": true,
+        "hasWifi": true
+    },
+    "security": {
+        "restriction": {
+            "pets": true,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": false
+    },
+    
+    "id": "R12386",
+    "title": "Charming 2 Bedroom Apartment in Uttara",
+    "description": "A charming 2 bedroom apartment in Uttara with modern amenities and a cozy atmosphere.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-10-10",
+    "price": 60000,
+    "advanceFee": 30000,
+    "currency": "BDT",
+    "image": [
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725222120/pexels-naimbic-2030037_ktu540.jpg",
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725222124/pexels-emrecan-2079246_kgya9n.jpg"
+    ],
+    "amenities": [
+        "24/7 Security",
+        "CCTV"
+    ]
+   
+    
+   
+},
+{
+    "location": {
+        "block": "N",
+        "road": "2nd Street",
+        "area": "Tejgaon",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1215,
+        "lat": 23.759500,
+        "long": 90.375500,
+        "number": "01712345681"
+    },
+    "features": {
+        "bedRoom": 1,
+        "bathRoom": 1,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 1,
+        "squareFeet": 800,
+        "parking": "None",
+        "furnished": false,
+        "hasBalcony": false,
+        "hasPool": false,
+        "hasGarden": false,
+        "hasElevator": false,
+        "hasAirConditioning": false,
+        "hasFridge": false,
+        "hasWifi": false
+    },
+    "security": {
+        "restriction": {
+            "pets": true,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": false
+    },
+    
+    "id": "R12387",
+    "title": "Affordable 1 Bedroom Apartment in Tejgaon",
+    "description": "An affordable 1 bedroom apartment in Tejgaon, ideal for individuals or couples.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-10-01",
+    "price": 25000,
+    "advanceFee": 12500,
+    "currency": "BDT",
+    "image": [
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725222122/pexels-christa-grover-977018-2121121_kecjg9.jpg",
+        "https://example.com/images/apartment_tejgaon2.jpg"
+    ],
+    "amenities": [
+        "24/7 Security",
+        "CCTV"
+    ]
+   
+    
+   
+},
+{
+    "location": {
+        "block": "O",
+        "road": "6th Avenue",
+        "area": "Jatrabari",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postalCode": 1212,
+        "lat": 23.723000,
+        "long": 90.382000,
+        "number": "01712345682"
+    },
+    "features": {
+        "bedRoom": 2,
+        "bathRoom": 1,
+        "kitchen": 1,
+        "livingRoom": 1,
+        "attachedBathRoom": 1,
+        "squareFeet": 1200,
+        "parking": "Ground",
+        "furnished": false,
+        "hasBalcony": false,
+        "hasPool": false,
+        "hasGarden": false,
+        "hasElevator": false,
+        "hasAirConditioning": false,
+        "hasFridge": false,
+        "hasWifi": false
+    },
+    "security": {
+        "restriction": {
+            "pets": true,
+            "smoking": false,
+            "drink": false,
+            "drugs": false,
+            "girlsAllowed": true,
+            "boysAllowed": true
+        },
+        "securityGarage": false
+    },
+    
+    "id": "R12388",
+    "title": "Budget-Friendly 2 Bedroom Apartment in Jatrabari",
+    "description": "A budget-friendly 2 bedroom apartment in Jatrabari with basic amenities.",
+    "propertyType": "Apartment",
+    "propertyFor": "Rent",
+    "status": "Available",
+    "availableFrom": "2024-10-10",
+    "price": 30000,
+    "advanceFee": 15000,
+    "currency": "BDT",
+    "image": [
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725222290/pexels-eye4dtail-129494_s6uabk.jpg",
+        "https://res.cloudinary.com/duid69e8r/image/upload/v1725222272/pexels-pixabay-275484_psjfkk.jpg"
+    ],
+    "amenities": [
+        "24/7 Security",
+        "CCTV"
+    ]
+   
+    
+   
+}  
