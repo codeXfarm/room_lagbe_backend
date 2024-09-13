@@ -118,13 +118,22 @@ export const getFilteredRooms = async (req, res) => {
   try {
     const filter = {};
 
+
+    if (query.price) {
+      filter.price = query.price;
+    }
+
     // Add filters dynamically based on query parameters
+
     if (query.propertyType) {
       filter.propertyType = query.propertyType;
     }
-
     if (query.propertyFor) {
+
+      filter.proertyFor = query.propertyFor;
+
       filter.propertyFor = query.propertyFor;
+
     }
 
     if (query.minPrice && query.maxPrice) {
