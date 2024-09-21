@@ -11,9 +11,17 @@ const userSchema = new mongoose.Schema(
       type: String,
       required: true,
     },
-    name: {
+    displayName: {
       type: String,
       required: true,
+    },
+    role: {
+      type: String,
+      default: "user",
+    },
+    photoURL: {
+      type: String,
+      default: "",
     },
     lastLogin: {
       type: Date,
@@ -30,7 +38,6 @@ const userSchema = new mongoose.Schema(
     verificationTokenExpiresAt: Date,
   },
 
-  
   { timestamps: true }
 );
 

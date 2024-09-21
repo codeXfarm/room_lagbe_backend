@@ -5,18 +5,18 @@ import {
   getAllRooms,
   getFilteredRooms,
   getRoomById,
+  getRoomsByUserRole,
   updateRoom,
 } from "../controllers/room.controller.js";
-
 const router = express.Router();
 
-// GET /api/rooms
 
-router.post("/add-room", addRoom); // localhost: 4000/api/rooms/add-room
+router.post("/add-room", addRoom);
 router.get("/all-rooms", getAllRooms);
+router.get("/all-rooms-by-role/:userId", getRoomsByUserRole);
 router.get("/filtered-rooms", getFilteredRooms);
 router.get("/room/:id", getRoomById);
 router.post("/update/:id", updateRoom);
-router.use("/delete/:id", deleteRoom);
+router.delete("/delete/:id", deleteRoom);
 
 export default router;
