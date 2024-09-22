@@ -44,9 +44,9 @@ app.use(cookieParser());
 
 const PORT = process.env.PORT || 5000;
 
-app.get('/', async (req, res) => {
-  /* const host = req.headers.host; */
-  res.send(`Hello 08-29-2024`)
+app.get('/', (req, res) => {
+
+  res.send(`Hello 08-29-2024,heeelllo`)
 })
 
 app.use("/api/auth", authRoutes);
