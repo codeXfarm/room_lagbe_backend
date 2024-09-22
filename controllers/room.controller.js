@@ -1,4 +1,5 @@
 import { Room } from "../models/room.model.js";
+import { User } from "../models/user.model.js";
 
 export const addRoom = async (req, res) => {
   const {
@@ -6,18 +7,27 @@ export const addRoom = async (req, res) => {
     title,
     description,
     propertyType,
-    proertyFor,
+    propertyFor,
     status,
     availableFrom,
     price,
-    advaneFee,
+    advanceFee,
     currency,
     location,
     features,
     security,
     image,
     amenities,
+    auth,
   } = req.body;
+
+  let isVerified;
+  const user = await User.findOne({ email: auth.email });
+  if (user.role === "admin") {
+    isVerified = true;
+  } else {
+    isVerified = false;
+  }
 
   try {
     const room = new Room({
@@ -25,17 +35,19 @@ export const addRoom = async (req, res) => {
       title,
       description,
       propertyType,
-      proertyFor,
+      propertyFor,
       status,
       availableFrom,
       price,
-      advaneFee,
+      advanceFee,
       currency,
       location,
       features,
       security,
       image,
       amenities,
+      auth,
+      isVerified,
     });
 
     await room.save();
@@ -155,5 +167,30 @@ export const getFilteredRooms = async (req, res) => {
   } catch (error) {
     res.status(500).json({ message: "Server error", error });
     console.log(error);
+  }
+};
+
+export const getRoomsByUserRole = async (req, res) => {
+  const { userId } = req.params;
+
+  try {
+    const user = await User.findById(userId);
+
+    if (!user) {
+      return res.status(404).json({ message: "User not found"});
+    }
+
+    let rooms;
+
+    if (user.role === "admin") {
+      rooms = await Room.find();
+    } else if (user.role === "owner") {
+      rooms = await Room.find({ "auth.id": user._id });
+    } else {
+      return res.status(403).json({ message: "Unauthorized access" });
+    }
+    return res.status(200).json(rooms);
+  } catch (error) {
+    return res.status(500).json({ message: "Error fetching rooms", error });
   }
 };

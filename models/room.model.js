@@ -6,11 +6,11 @@ const roomSchema = new mongoose.Schema(
     title: String,
     description: String,
     propertyType: String,
-    proertyFor: String,
+    propertyFor: String,
     status: String,
     availableFrom: String,
     price: Number,
-    advaneFee: Number,
+    advanceFee: Number,
     currency: String,
     location: {
       block: String,
@@ -22,6 +22,7 @@ const roomSchema = new mongoose.Schema(
       postalCode: Number,
       lat: Number,
       long: Number,
+      number: Number,
     },
     features: {
       bedRoom: Number,
@@ -29,7 +30,7 @@ const roomSchema = new mongoose.Schema(
       kitchen: Number,
       livingRoom: Number,
       attachedBathRoom: Number,
-      squareFeet: Number,
+      squareFeet: String,
       parking: String,
       furnished: Boolean,
       hasBalcony: Boolean,
@@ -53,6 +54,12 @@ const roomSchema = new mongoose.Schema(
     },
     image: [String],
     amenities: [String],
+    auth: {
+      id: String,
+      name: String,
+      email: String,
+    },
+    isVerified: Boolean,
   },
   { timestamps: true }
 );
