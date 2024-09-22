@@ -15,14 +15,14 @@ dotenv.config();
 const app = express();
 
 const corsConfig = {
-  origin: ["http://localhost:5173"],
+  origin: ["http://localhost:5173", "https://room-lagbe-backend-one.vercel.app"],
   credentials: true,
 };
 
 const corsOptions = {
   origin: function (origin, callback) {
     if (!origin) return callback(null, true);
-    const allowedOrigins = ["http://localhost:5173"];
+    const allowedOrigins = ["http://localhost:5173", "https://room-lagbe-backend-one.vercel.app"];
     if (allowedOrigins.indexOf(origin) !== -1) {
       callback(null, true);
     } else {
@@ -41,6 +41,11 @@ app.use(cookieParser());
 
 
 const PORT = process.env.PORT || 5000;
+
+app.get('/', async (req, res) => {
+  /* const host = req.headers.host; */
+  res.send(`Hello 08-29-2024`)
+})
 
 app.use("/api/auth", authRoutes);
 app.use("/api", usersRoutes);
