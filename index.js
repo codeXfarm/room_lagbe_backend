@@ -1,5 +1,7 @@
 import express from "express";
 import dotenv from "dotenv";
+import cookieParser from "cookie-parser";
+
 import roomRoutes from "./routes/room.route.js";
 import blogRoutes from "./routes/blog.route.js";
 import categoryRoutes from "./routes/category.route.js";
