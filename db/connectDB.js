@@ -1,11 +1,11 @@
 import mongoose from "mongoose";
 
-export const connectDB = () => {
+mongoose.set('strictQuery', true);
+export  const connectDB = (mongodb_uri) => {
   try {
-    const db = mongoose.connect(process.env.MONGODB_URL);
-    console.log(`MongoDB connection established`);
+    mongoose.connect(mongodb_uri)
+    mongoose.connection.on('connected', () => {
+    })
   } catch (error) {
-    console.log("Error connecting to MongoDB", error.message);
-    process.exit(1);
   }
-};
+}
